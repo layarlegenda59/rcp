@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Archives & source design files (large)
+*.zip
+*.ai
+*.cdr
+*.url
+
+# Cursor / local notes (optional)
+.cursor/
